@@ -1,0 +1,18 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/dumbtechie",
+    "prod_uri": "mysql://root:@localhost/dumbtechie",
+    "fb_url": "https://facebook.com/dumbtechie",
+    "tw_url": "https://twitter.com/dumbtechie",
+    "gh_url": "https://github.com/dumbtechie",
+    "blog_name": "Dumb Techie",
+    "gmail-user": "put your mail here",
+    "gmail-password": "put your password here",
+    "about-text": "Hi i'm MAX ,and i have created this website using flask. basically i am a Mechanical Engineer but i love to do programming.",
+    "no-of-posts": 2,
+    "login_image": "logo.svg",
+    "admin_user": "max",
+    "admin_password": "password123"
+  }
+}
